@@ -19,7 +19,7 @@ This Bash script helps compare JSON snapshot files of AWS resources across two d
 
 ## Directory Structure
 
-infra-snapshot-tracker/
+aws-infra-snapshot-tracker/
 ├── README.md
 ├── diffs
 ├── scripts
